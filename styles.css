@@ -3,25 +3,25 @@
 display: flex;
 padding: 10px;
 margin: 10px;
-background: Black;
+background: [Black];
 }
 .assign img {
 width: 200px;
 padding: 10px;
 }
 body {
-background: Red;
+background: [Red];
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: [pick a font color];
+color: [Red];
 text-align: center;
 }
 .assign {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: Red;
+background: [Red];
 }
 .assign img {
 width: 200px;
