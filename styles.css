@@ -3,18 +3,18 @@
 display: flex;
 padding: 10px;
 margin: 10px;
-background: #00FFFF;
+background: #89CFF0;
 }
 .assign img {
 width: 200px;
 padding: 10px;
 }
 body {
-background: Black;
+background: #000000;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: #00FFFF;
+color: #89CFF0;
 text-align: center;
 }
 
